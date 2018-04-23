@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ValidateCellEditors", "ValidateCellEditors\ValidateCellEditors.vbproj", "{DC868622-F7BD-43A7-9AE0-2CF5CDEDC071}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC868622-F7BD-43A7-9AE0-2CF5CDEDC071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC868622-F7BD-43A7-9AE0-2CF5CDEDC071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC868622-F7BD-43A7-9AE0-2CF5CDEDC071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC868622-F7BD-43A7-9AE0-2CF5CDEDC071}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
