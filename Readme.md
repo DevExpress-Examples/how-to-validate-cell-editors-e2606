@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/ValidateCellEditors/MainPage.xaml) (VB: [MainPage.xaml](./VB/ValidateCellEditors/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/ValidateCellEditors/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ValidateCellEditors/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/ValidateCellEditors/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ValidateCellEditors/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to Validate Cell Editors
 
